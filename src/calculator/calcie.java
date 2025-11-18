@@ -1,7 +1,5 @@
 package calculator;
 
-import java.util.List;
-
 public interface calcie {
 
 	
