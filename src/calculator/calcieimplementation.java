@@ -4,8 +4,9 @@ public class calcieimplementation implements calcie {
 
 	@Override
 	public int addition(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		
+		int c = a+b;
+				return c;
 	}
 
 	@Override
