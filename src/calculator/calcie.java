@@ -1,7 +1,4 @@
 package calculator;
-
-
-
 public interface calcie {
 
 	
